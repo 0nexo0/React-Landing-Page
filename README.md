@@ -1,6 +1,6 @@
 # Full Responsive React.Js & Tailwind Css Website Landing Page.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was Tailwind Css with React.Js
 
 ## Available Scripts
 
